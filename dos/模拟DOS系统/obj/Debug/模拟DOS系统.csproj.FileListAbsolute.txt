@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2013\Projects\模拟DOS系统\模拟DOS系统\bin\Debug\模拟DOS系统.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\模拟DOS系统\模拟DOS系统\bin\Debug\模拟DOS系统.exe
+c:\users\administrator\documents\visual studio 2013\Projects\模拟DOS系统\模拟DOS系统\bin\Debug\模拟DOS系统.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\模拟DOS系统\模拟DOS系统\obj\Debug\模拟DOS系统.exe
+c:\users\administrator\documents\visual studio 2013\Projects\模拟DOS系统\模拟DOS系统\obj\Debug\模拟DOS系统.pdb
+E:\TIM\MobileFile\模拟DOS系统\模拟DOS系统\模拟DOS系统\bin\Debug\模拟DOS系统.exe.config
+E:\TIM\MobileFile\模拟DOS系统\模拟DOS系统\模拟DOS系统\bin\Debug\模拟DOS系统.exe
+E:\TIM\MobileFile\模拟DOS系统\模拟DOS系统\模拟DOS系统\bin\Debug\模拟DOS系统.pdb
+E:\TIM\MobileFile\模拟DOS系统\模拟DOS系统\模拟DOS系统\obj\Debug\模拟DOS系统.csprojResolveAssemblyReference.cache
+E:\TIM\MobileFile\模拟DOS系统\模拟DOS系统\模拟DOS系统\obj\Debug\模拟DOS系统.exe
+E:\TIM\MobileFile\模拟DOS系统\模拟DOS系统\模拟DOS系统\obj\Debug\模拟DOS系统.pdb
